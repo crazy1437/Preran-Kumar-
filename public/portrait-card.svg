@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1200" role="img" aria-labelledby="title desc">
+  <title id="title">Preran Kumar portrait placeholder</title>
+  <desc id="desc">Stylized portrait placeholder for Preran Kumar portfolio.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#16191d"/>
+      <stop offset="100%" stop-color="#0a0d11"/>
+    </linearGradient>
+    <linearGradient id="shirt" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#f0f3f6"/>
+      <stop offset="100%" stop-color="#dfe3eb"/>
+    </linearGradient>
+    <radialGradient id="light" cx="50%" cy="32%" r="60%">
+      <stop offset="0%" stop-color="#f5e7d9" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#000000" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="900" height="1200" fill="url(#bg)"/>
+  <rect width="900" height="1200" fill="url(#light)"/>
+  <circle cx="460" cy="260" r="210" fill="#1c1d20" opacity="0.72"/>
+  <path d="M290 255c10-110 108-180 175-180s180 80 188 180l8 126c-8 58-38 92-92 116l-86 42-82-38c-60-28-95-72-102-124z" fill="#2b2d31" opacity="0.82"/>
+  <path d="M313 268c0-100 78-170 168-170s176 71 176 167v63c-16-19-38-34-73-42-45-12-118-12-160 0-48 13-80 36-111 59z" fill="#2b1d16"/>
+  <path d="M386 392c24-16 51-22 72-19 24 4 39 14 58 28 15 11 25 23 25 35 0 32-27 53-52 60-35 10-50 9-85-1-29-9-50-24-62-57-9-24 3-35 20-46 11-7 16-11 24-12z" fill="#5d3f2b" opacity="0.45"/>
+  <ellipse cx="395" cy="347" rx="50" ry="62" fill="#2c1d17"/>
+  <ellipse cx="560" cy="347" rx="50" ry="62" fill="#2c1d17"/>
+  <path d="M382 292c16-20 48-35 80-35 43 0 77 26 93 63-19-14-48-20-77-19-32 1-70 10-96 25z" fill="#27252a"/>
+  <path d="M332 352c42-26 87-41 145-42 52 0 101 16 140 50-7 52-42 90-73 111-52 35-97 41-154 24-47-15-82-62-71-143z" fill="#4a2d22" opacity="0.92"/>
+  <path d="M347 373c12 26 25 46 42 62 20 18 47 28 75 28 37 0 71-15 94-40 17-18 31-41 42-70-15 11-30 18-44 22-17 5-28 18-42 33-12 12-21 24-27 36-14 30-54 45-92 36-30-8-58-41-48-107z" fill="#3a2a22"/>
+  <path d="M338 380c27-8 53-11 81-11 42 0 81 10 112 32-8 15-22 31-40 42-26 17-58 30-88 31-41 2-73-8-98-27-14-11-30-27-35-49 23-9 40-13 68-18z" fill="#261a17" opacity="0.68"/>
+  <path d="M455 390c0 5-1 10-2 17l-9 61c-7 47-44 69-82 63-19-3-35-12-41-25-8-18 3-41 16-55 17-20 36-34 60-40 24-7 48-10 58-21z" fill="#53362e" opacity="0.7"/>
+
+  <g fill="none" stroke="#191d22" stroke-width="18" stroke-linecap="round">
+    <path d="M335 380c40-23 87-36 138-35 54 1 99 17 136 48"/>
+    <path d="M440 360l-12 74"/>
+    <path d="M490 355l18 84"/>
+  </g>
+
+  <g fill="#0f1115">
+    <rect x="315" y="430" width="108" height="38" rx="18"/>
+    <rect x="468" y="430" width="108" height="38" rx="18"/>
+    <rect x="354" y="491" width="180" height="14" rx="7"/>
+  </g>
+
+  <path d="M323 531c56 28 130 41 205 39 60-1 112-18 172-45l52 48c-70 92-160 136-263 138s-198-51-267-134z" fill="url(#shirt)"/>
+  <path d="M324 540l63 184c10 28 35 48 63 54 41 9 87 3 117-22l28-24 6-192-277 0z" fill="#f1f4f7" opacity="0.96"/>
+  <path d="M560 543l94 178c21 35 60 58 103 57l55-2 18-179-270-54z" fill="#edf2f6" opacity="0.94"/>
+  <path d="M322 544l-18 44-39 94c-18 41-30 60-46 79l-41 52 50 14c66-82 109-150 155-226z" fill="#ffffff" opacity="0.82"/>
+  <path d="M725 540l-33 52-61 117 168 12 44-86-16-77z" fill="#f1f4f7" opacity="0.94"/>
+
+  <circle cx="610" cy="610" r="7" fill="#0d0d0d"/>
+  <circle cx="712" cy="640" r="7" fill="#0d0d0d"/>
+  <circle cx="350" cy="620" r="7" fill="#0d0d0d"/>
+  <circle cx="270" cy="660" r="7" fill="#0d0d0d"/>
+  <path d="M140 1020c80-128 168-170 255-173 141-5 266 90 296 142l-9 211H153z" fill="#0c1014" opacity="0.86"/>
+  <path d="M386 990c49 26 128 32 198 20l76 183H311z" fill="#12171d" opacity="0.82"/>
+</svg>
